@@ -29,7 +29,7 @@
     "@studiometa/vue-mapbox-gl": "2.7.2",
     "@vueuse/core": "13.9.0",
     "ionicons": "8.0.13",
-    "mapbox-gl": "3.16.0",
+    "mapbox-gl": "3.17.0",
     "vue": "3.5.25",
     "vue-qrcode-reader": "5.7.3",
     "vue-router": "4.6.3"
