@@ -52,7 +52,7 @@
     "sass": "1.96.0",
     "typescript": "5.9.3",
     "vite": "6.4.1",
-    "vitest": "3.2.4",
+    "vitest": "4.0.15",
     "vue-tsc": "2.2.12"
   },
   "description": "An Ionic project"
