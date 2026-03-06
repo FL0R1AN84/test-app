@@ -30,7 +30,7 @@
     "@vueuse/core": "14.2.1",
     "ionicons": "8.0.13",
     "mapbox-gl": "3.19.1",
-    "vue": "3.5.25",
+    "vue": "3.5.29",
     "vue-qrcode-reader": "5.7.3",
     "vue-router": "5.0.3"
   },
