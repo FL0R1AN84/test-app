@@ -29,14 +29,14 @@
     "@studiometa/vue-mapbox-gl": "2.7.2",
     "@vueuse/core": "13.9.0",
     "ionicons": "8.0.13",
-    "mapbox-gl": "3.17.0",
+    "mapbox-gl": "3.19.1",
     "vue": "3.5.25",
     "vue-qrcode-reader": "5.7.3",
     "vue-router": "4.6.4"
   },
   "devDependencies": {
     "@capacitor/cli": "6.2.1",
-    "@types/mapbox-gl": "3.4.1",
+    "@types/mapbox-gl": "3.5.0",
     "@types/mapbox__mapbox-gl-geocoder": "5.1.0",
     "@vitejs/plugin-legacy": "6.1.1",
     "@vitejs/plugin-vue": "6.0.3",
