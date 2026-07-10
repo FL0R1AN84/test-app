@@ -23,7 +23,7 @@
     "@capacitor/ios": "6.2.1",
     "@capacitor/keyboard": "6.0.4",
     "@capacitor/status-bar": "6.0.3",
-    "@ionic/vue": "8.8.4",
+    "@ionic/vue": "8.8.13",
     "@ionic/vue-router": "8.8.4",
     "@mapbox/mapbox-gl-geocoder": "5.1.2",
     "@studiometa/vue-mapbox-gl": "2.7.2",
