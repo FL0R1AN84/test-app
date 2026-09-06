@@ -28,7 +28,7 @@
     "@mapbox/mapbox-gl-geocoder": "5.1.2",
     "@studiometa/vue-mapbox-gl": "2.7.2",
     "@vueuse/core": "14.4.0",
-    "ionicons": "8.0.13",
+    "ionicons": "8.1.0",
     "mapbox-gl": "3.22.0",
     "vue": "3.5.42",
     "vue-qrcode-reader": "5.7.3",
